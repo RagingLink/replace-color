@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "color-convert": "^1.9.3",
-    "delta-e": "0.0.7",
+    "delta-e": "0.0.8",
     "hex-color-regex": "^1.1.0",
     "jimp": "^0.16.1"
   },
